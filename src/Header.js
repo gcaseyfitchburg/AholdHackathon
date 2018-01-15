@@ -5,7 +5,7 @@ class Header extends Component {
   render() {
     return (
       <div className="SuperHeader">
-        <h1>Login!!!!!!</h1>
+        <h1>Login Please</h1>
       </div>
     );
   }
